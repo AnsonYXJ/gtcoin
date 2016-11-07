@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Freicoin
+Comment=Freicoin P2P Cryptocurrency
+Comment[fr]=Freicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Freicoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/gtcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/gtcoin80.xpm
+MimeType=x-scheme-handler/gtcoin;
+Categories=Office;

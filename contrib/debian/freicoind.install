@@ -1,0 +1,2 @@
+debian/bin/gtcoind usr/bin
+src/gtcoind usr/lib/gtcoin

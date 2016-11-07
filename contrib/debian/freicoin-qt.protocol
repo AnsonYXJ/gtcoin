@@ -1,0 +1,11 @@
+[Protocol]
+exec=gtcoin-qt '%u'
+protocol=gtcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
